@@ -2,7 +2,7 @@ using Data.SOReferences;
 using UnityEditor;
 using UnityEngine;
 
-namespace Plugins.SOReferences {
+namespace Plugins.SOReferences.Editor {
     /// <summary>
     /// ReferenceDrawer Class.
     /// </summary>
